@@ -31,6 +31,7 @@
     "vite": "^2.9.1"
   },
   "dependencies": {
+    "express": "^4.17.3",
     "sirv-cli": "^2.0.0"
   }
 }
