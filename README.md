@@ -18,3 +18,7 @@ This will build the application in the `dist` directory.
 To run the vite development server, type:
 
 `npm run dev`
+
+## Demo
+
+[See the demo on Heroku](https://svelte-ts-vite-tailwind-app.herokuapp.com/)
